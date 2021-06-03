@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The muses thankfulnesse, or A funerall elegie, consecrated to the perpetuall memory of the late all-honourable, and all-noble lord, Robert, Baron Spencer, of Wormleighton, &amp;c.</title>
+            <title>Muses thankfulnesse.</title>
+         </titleStmt>
+         <extent>Approx. 40KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15905</idno><idno type="EEBO-CITATION">99841971</idno>
+  <idno type="VID">173116</idno>
+  <idno type="EEBO-PROQUEST">2248574476</idno>
+  <idno type="STC">STC 23071</idno>
+  <idno type="STC">ESTC S106253</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99841971e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15905)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173116)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1335:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The muses thankfulnesse, or A funerall elegie, consecrated to the perpetuall memory of the late all-honourable, and all-noble lord, Robert, Baron Spencer, of Wormleighton, &amp;c.</title>
+                  <title>Muses thankfulnesse.</title>
+               </titleStmt>
+               <extent>[52] p.   </extent>
+               <publicationStmt>
+                  <publisher>I. Jaggard?,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1627]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by STC.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: pi²  A⁶ B¹²  C⁶.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Spencer, Robert Spencer, --  Baron, 1570-1627 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173116:1"/>
+            <pb facs="tcp:173116:1"/>
+            <p>THE MVSES Thankfulnesse, OR</p>
+            <figure/>
+            <p>A Funerall Elegie, Consecrated to the <hi>perpe<g ref="char:EOLhyphen"/>tuall memory of the late All-</hi>Honourable, and All-Noble <hi>Lord,</hi> Robert, <hi>Baron</hi> Spencer, <hi>of</hi> Wormleighton, &amp;c.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173116:2"/>
+            <pb facs="tcp:173116:2"/>
+            <head>To the Right Honourable <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> Lord <hi>Spencer</hi> Baron of <hi>Wormlaighton.</hi>
+            </head>
+            <lg>
+               <l>With due respects, and iust obseruances</l>
+               <l>I offer vp my faire remembrances,</l>
+               <l>Liuely continuing, by this true record</l>
+               <l>Long lasting memory, to my honour'd Lord;</l>
+               <l>I doubt me nothing but I am come short</l>
+               <l>(Against my will 'tis though) in my report:</l>
+               <l>My genius is too meane, too poore, too lowe,</l>
+               <l>Let me craue pardon yet for fayling soe,</l>
+               <l>Since I haue done my best, accept then this,</l>
+               <l>Passe by my errours, that you find a misse;</l>
+               <l>Each man a liue knew his exceeding worth,</l>
+               <l>Nor need it to haue beene by me set forth,</l>
+               <l>Can though a thankefull heart forget to bring</l>
+               <l>Earnest acknowledgements for euery thing</l>
+               <l>Rright plentiously receiued? the Muses were espected by him, and they thanke him here.</l>
+            </lg>
+         </div>
+         <div type="coat_of_arms">
+            <pb facs="tcp:173116:3"/>
+            <p>
+               <figure>
+                  <head>Dieu defende le droic</head>
+               </figure>
+            </p>
+            <p>
+               <hi>Des Tres-illustres et Nobles gentilsh ommes <gap reason="illegible" resp="#uom" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Baron. <gap reason="illegible" resp="#uom" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> &amp;c. <gap reason="illegible" resp="#uom" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Richard Spencer &amp; Sr Edward Spencer Cheual</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173116:3"/>
+            <head>To the three illustrious Sons <hi>liuing, of the late All-honourable</hi> on earth, but now All-glorious S<seg rend="sup">t</seg>. in Heauen, <hi>Robert,</hi> Baron <hi>Spencer.</hi>
+            </head>
+            <list>
+               <item>William Lord</item>
+               <item>Spencer Baron</item>
+               <item>of Wormleighton.</item>
+               <item>Richard</item>
+               <item>Spencer.</item>
+               <item>Sir Edward</item>
+               <item>Spencer K.</item>
+            </list>
+            <lg>
+               <l>LOe here (renowned Gentlemen) I bring</l>
+               <l>The due acknowledgements, the Muses sing</l>
+               <l>In liuely, and perpetuall memory</l>
+               <l>Of him, who, though the Fates ordain'd to dye,</l>
+               <l>Hath left vntainted Honour, free from staine</l>
+               <l>To his posterity; then great's your gaine,</l>
+               <l>Faire your enioyments, and your haps are good,</l>
+               <l>That haue your veynes fil'd with so Noble blood;</l>
+               <l>So are his vertues in your hearts combin'd,</l>
+               <l>The rich endowments of his blessed mind;</l>
+               <l>Be also like him, in this very thing,</l>
+               <l>Be courteous, to accept this offering.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:173116:4"/>
+            <pb facs="tcp:173116:5"/>
+            <head>The Muses Thankfulnesse</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">C</seg>Anst thou depart and be forgotten so,</l>
+               <l>As if thou hadst not beene at all? O no,</l>
+               <l>But in dispite of death the world shall see,</l>
+               <l>The Muses which much Honour'd were by thee,</l>
+               <l>Can blacke obliuion, vtterly out braue,</l>
+               <l>And set thee vp aboue thy scilent graue,</l>
+               <l>For Time, nor Age, nor yet can Death, or Fate</l>
+               <l>Confine thy Fame to an expiring date;</l>
+               <l>Since all they can do, is to kill thy Eearth:</l>
+               <l>Whose Dust wip'd of thy Soule, a second Birth,</l>
+               <pb facs="tcp:173116:6"/>
+               <l> Regenerates the honour of thy Acts</l>
+               <l>Vnto Eternitie. He that detracts</l>
+               <l>The dead Mans good, defames his owne intent;</l>
+               <l>And makes obscured vertues, eminent.</l>
+               <l>But (Noble Lord) this Monument they raise,</l>
+               <l>With vncorrupted purpose to thy praise.</l>
+               <l>All that they speake, is vnexacted, true and free;</l>
+               <l>Drawne clearely from vnalter'd certaintie.</l>
+               <l>Sith that the hand of death hath laid thee there</l>
+               <l>Where men are all of them a like, and where</l>
+               <l>All men in time must lye, eu'n in the earth,</l>
+               <l>Where are no seuerall roomes for State or Birth,</l>
+               <l>Death hauing left thee nothing, but a Name</l>
+               <l>In mens remembrances, meerly the same.</l>
+               <pb facs="tcp:173116:7"/>
+               <l> Of what thy vertue and thy worth hath done</l>
+               <l>Renowned Spencer each thing else being gone.</l>
+               <l>Now must the Muses thou wert wont to grace,</l>
+               <l>Now leaue thee in thy graue that darkesome place,</l>
+               <l>That few regard or haue respect vnto;</l>
+               <l>At least (if that at all) they faintly do.</l>
+               <l>Where all attendance and obseruance ends,</l>
+               <l>Where what was ill no countenance deffends;</l>
+               <l>And what was good th'vnthankfull world forgets,</l>
+               <l>Where all the Sunshine of our fauour sets:</l>
+               <l>Here shalt thou haue the seruice of their pen,</l>
+               <l>They cannot be supposd to flatter, when</l>
+               <l>They speake behind thy backe, not to thy face</l>
+               <l>There's no disimulation in this case.</l>
+               <pb facs="tcp:173116:8"/>
+               <l> What benefit thou yeeld'st, them to sustaine,</l>
+               <l>That haue they lost by this thy death againe;</l>
+               <l>Yet (notwithstanding) thy great courtesie,</l>
+               <l>Cannot enforce obseruance beyond thee,</l>
+               <l>Who haue their hopes, or whose desires are hye,</l>
+               <l>Let those dissemble, they konw how to lye</l>
+               <l>And fawne like vassals, with such seruices,</l>
+               <l>Muses seeke not the meritlesse to please.</l>
+               <l>And if mistaken by the paralax</l>
+               <l>And distance of my standing, men did tax</l>
+               <l>Me heretofore, that ayming too farre off,</l>
+               <l>I was too free of praises without proofe,</l>
+               <l>But here it is not so; and yet the choyce</l>
+               <l>Of those that I did make, had the free voyce</l>
+               <pb facs="tcp:173116:9"/>
+               <l> Of present times, their vertues to alow,</l>
+               <l>For all of them did make a currant show;</l>
+               <l>And if they faild in substance, yet it is</l>
+               <l>No blemish to my faire obseruances;</l>
+               <l>Nor can it as a fault to me be layd,</l>
+               <l>True praises do adorne, the false obray'd;</l>
+               <l>And oftentimes to greatnesse we are glad</l>
+               <l>To attribute those parts we wish they had.</l>
+               <l>But noble Spencer, I stand cleare with thee,</l>
+               <l>I haue a manumission to be free</l>
+               <l>Vnder correction, here I may make bold,</l>
+               <l>To speake the certaine truth. Thou canst not hold</l>
+               <l>Mens tongues, who hearing thou deceased art,</l>
+               <l>Of thy past life, their censure will impart.</l>
+               <pb facs="tcp:173116:10"/>
+               <l> Here fairely will I thee anatomise,</l>
+               <l>Shew how thy minde was built, and in what wise;</l>
+               <l>And freely open what thou wert within,</l>
+               <l>What the contexture of thy heart hath beene,</l>
+               <l>Which was so nobly fram'd, so well compos'd,</l>
+               <l>That vertue neuer was so well repos'd</l>
+               <l>Then, in that goodly frame, that most faire seat,</l>
+               <l>When all things quiet, and when all things sweet,</l>
+               <l>Had a most peacefull and a blessed rest,</l>
+               <l>Without disturbance; nor was euer brest,</l>
+               <l>So free from passion that migbt tumults raise,</l>
+               <l>Though in thy praise wert mute, and add'st no noise;</l>
+               <l>Yet by thy silent modesty is found,</l>
+               <l>The emptiest vessels make the greatest sound.</l>
+               <pb facs="tcp:173116:11"/>
+               <l> And as dogges barke at those they doe not know;</l>
+               <l>So the base people, whose condition's low,</l>
+               <l>Will slander thee, and mutter vnder-hand,</l>
+               <l>And censure things they doe not vnderstand:</l>
+               <l>The worthier sort, who know we doe not liue</l>
+               <l>With perfect men; to the deceased giue</l>
+               <l>Iust commendations, and are not vnkinde,</l>
+               <l>Knowing themselues must likewise leaue behinde</l>
+               <l>Those that will censure them, and they know how</l>
+               <l>T'excuse, not vrge, a passed errour now;</l>
+               <l>They haue more modesty then to insult</l>
+               <l>When as thou hast no party to consult,</l>
+               <l>No tongue, no aduocate to shew thy minde,</l>
+               <l>They rather will lament the losse they finde,</l>
+               <pb facs="tcp:173116:12"/>
+               <l> By such a noble member of that worth;</l>
+               <l>Knowing, how rare the world such men brings forth.</l>
+               <l>E're may his name, his fame, and vertues shine,</l>
+               <l>That we may imitate his worth Diuine,</l>
+               <l>Like vnto him win action to our will;</l>
+               <l>Not to doe good, we know is to doe ill:</l>
+               <l>His faith was not a dead or idle thing,</l>
+               <l>But faith in heart, fruits from his hands did bring;</l>
+               <l>But from his faith, of all good deeds the cause,</l>
+               <l>And from his due obseruing of the Lawes</l>
+               <l>Diuine, in which he did beyond compare excell;</l>
+               <l>Let vs proceede, his other gifts to tell:</l>
+               <l>Beames that shall breake forth from his hollow Tombe,</l>
+               <l>Shall staine times past, and light the Times to come.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:173116:13"/>
+               <l>YE Thrice three Sisters, which do rest vpon</l>
+               <l>Pernassus hill, and drinke of HELICON;</l>
+               <l>Which round about that sacred Spring do sit,</l>
+               <l>Well weigh your losse, and sadly mourne for it;</l>
+               <l>Double your Lachrimas, augment your moane,</l>
+               <l>For greater cause of griefe was neuer knowne;</l>
+               <l>Since that your worthy and best Patron's dead,</l>
+               <l>Teares too profusely you can neuer shed;</l>
+               <l>Looke not in Citie, Court or any place</l>
+               <l>To haue your old respect and former grace:</l>
+               <l>Now gentle bloud, in Fancies schoole vptrain'd,</l>
+               <l>Learning to be ignoble haue maintain'd.</l>
+               <l>And now the Nobles which incouraged those,</l>
+               <l>Which were bright wisdom's friends, darke errors foes;</l>
+               <pb facs="tcp:173116:14"/>
+               <l> Are so farre from affording former grace,</l>
+               <l>They hold the Poets and Muses, but as base</l>
+               <l>Beggars, or else farre worse, the sorrow shew</l>
+               <l>When as you loose your friends you haue so few.</l>
+               <l>Thy Loue (braue <hi>Spencer)</hi> hath his iust reward;</l>
+               <l>Thy noble friends bare thee a kinde regard</l>
+               <l>After thy death, nor doe forsake thee, now</l>
+               <l>Thy honour's coffer'd in the graue, but show</l>
+               <l>That worthinesse, which merits to remaine</l>
+               <l>Liuely examples, doubtlesse they shall gaine</l>
+               <l>A like regard vnto their memory,</l>
+               <l>For this their absolute integritie:</l>
+               <l>Cause the praise-worthy Actions, These haue wrought,</l>
+               <l>(Till the world fabrique be to Chaos brought)</l>
+               <l>To liue perpetuall in each ages Story,</l>
+               <l>As the due trophies of their deserued Glory.</l>
+               <pb facs="tcp:173116:15"/>
+               <l> For though sterne <hi>Death</hi> hath borne away this Prize</l>
+               <l>Whose worth the poore <hi>World</hi> scarse can equalize,</l>
+               <l>Yet doth He liue, although depriude of breath,</l>
+               <l>Saincted in <hi>Heauen,</hi> and renownde on <hi>Earth.</hi>
+               </l>
+               <l>
+                  <hi>Most Sacred be thy</hi> memory, <hi>outwasting</hi>
+               </l>
+               <l>
+                  <hi>All</hi> Genealogies: <hi>and Euer-lasting,</hi>
+               </l>
+               <l>
+                  <hi>Whilest there be</hi> Elements, Starre, Orbe, <hi>or</hi> Spheare,</l>
+               <l>Dayes Sunne, <hi>or</hi> Nights Moone, <hi>to direct the Yeare:</hi>
+               </l>
+               <l>
+                  <hi>Whilst there be seasons nam'd,</hi> Autumne <hi>or</hi> Spring;</l>
+               <l>
+                  <hi>Ought being, or, what may be calld a thing:</hi>
+               </l>
+               <l>
+                  <hi>Nor is</hi> He <hi>dead, let that our Comfort be,</hi>
+               </l>
+               <l>Death's <hi>like the</hi> Basiliske, <hi>if he first see,</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Obiect <hi>perisheth: but being espide,</hi>
+               </l>
+               <l>
+                  <hi>Falls:</hi> He <hi>saw</hi> Death <hi>first, Killd</hi> Him; <hi>so</hi> Death <hi>Dyde,</hi>
+               </l>
+               <pb facs="tcp:173116:16"/>
+               <l> And He still liues in glory, why should then</l>
+               <l>Teares, Sighes, or the least griefe afflict vs, when</l>
+               <l>All are most Confident, He is now possest</l>
+               <l>Of what we yet but ayme at, Heauenly rest:</l>
+               <l>Or if you needs will his sad death Deplore,</l>
+               <l>Know, no Laments, can Him thats dead restore.</l>
+               <l>
+                  <hi>Supprime iam Lacrymas non est reuocabilis istis</hi>
+               </l>
+               <l>
+                  <hi>Quem semel vmbrifera, Nauita vin<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re tulit,</hi>
+               </l>
+               <l>
+                  <hi>Nam Rigidum Ius est, &amp; Ineuitabile Mortis.</hi>
+               </l>
+               <l>Yet what is he that can a Sonne perswade</l>
+               <l>From Teares, when he beholds his Father laid</l>
+               <l>In his cold Sepulcher: or a Mother drye</l>
+               <l>Her moistned Cheekes, and instantly apply</l>
+               <l>Her selfe to laughter; when before her face</l>
+               <l>She breathlesse sees, the Hope of all her Race.</l>
+               <pb facs="tcp:173116:17"/>
+               <l> But though mankind Contend aboue their force,</l>
+               <l>Teares still will finde their vent, and Griefe his course.</l>
+               <l>Since life then so vncertaine is and fraile,</l>
+               <l>That like vnskilfull Marriners we saile</l>
+               <l>Through vnknown Seas: and quick-Sands euery where</l>
+               <l>Shallowes and Rockes, and know not how to steare</l>
+               <l>A desperate Course, ere we in Peeces shake</l>
+               <l>Our Crazed Bottoms; This short Counsell take,</l>
+               <l>Twixt Hope, Care, Feare and Passion which thou hast,</l>
+               <l>Thinke euery Houre before thee is thy last.</l>
+               <l>So by this meanes for all thy after deeds,</l>
+               <l>Th'art bound vnto each Minute that succeeds,</l>
+               <l>All sublinary things, their beings woe,</l>
+               <l>To future Ruine: nothing said to grow</l>
+               <pb facs="tcp:173116:18"/>
+               <l>
+                  <hi>But being once ripe to fall. when we begin</hi>
+               </l>
+               <l>
+                  <hi>Once to be tainted with Originall sinne,</hi>
+               </l>
+               <l>
+                  <hi>The very first Houre of our earthly strife,</hi>
+               </l>
+               <l>
+                  <hi>Doth take an Houre off, from our future life.</hi>
+               </l>
+               <l>Laeta sit ista dies nescitur origio secundi</l>
+               <l>An labor, an requies, sic transit gloria Mundi.</l>
+               <l>And Wisdome saith, This Worlds felicitie,</l>
+               <l>Truely examin'd is but Vanitie.</l>
+               <l>How quickly doe all earthly ioyes decay,</l>
+               <l>Forsaking their possessors; In a day,</l>
+               <l>An houre, a minute, hard misfortunes fall,</l>
+               <l>Which from our mirth doe vnto mourning call?</l>
+               <l>O let our Muses teares without all end</l>
+               <l>From th'inexhausted fountaines still descend.</l>
+               <pb facs="tcp:173116:19"/>
+               <l> Sith 'tis most true, this age is vaine and strange,</l>
+               <l>Time comes by turnes with vnexpected change:</l>
+               <l>Behold Great men of fame and Rich renowne,</l>
+               <l>Death in their highest Honor, Puls them Downe.</l>
+               <l>Then what are we, but fooles of selfe-Conceit;</l>
+               <l>All what we haue, stands in a stagg'ring state.</l>
+               <l>We weeping come into this world of Cares,</l>
+               <l>Scarse is our Prime, when wintring Age declares</l>
+               <l>What weightie griefe, our body doth oppresse,</l>
+               <l>When all our life's but battels of distresse,</l>
+               <l>Bred with sinne, borne with woe, our life is paine</l>
+               <l>Which still attends vs, to our Graue againe,</l>
+               <l>Then Earthly slime, wherein consists thy pride?</l>
+               <l>In that faire Bed of wormes where thou must bide?</l>
+               <pb facs="tcp:173116:20"/>
+               <l> Oh! know that Glory goes into the ground,</l>
+               <l>That thy faire face most filthy shall be found.</l>
+               <l>Our Sunne-shine ioyes, Time swiftly sweepes away</l>
+               <l>This night we liue, and dye before the day.</l>
+               <l>But why should Stags or Rauens liue so long?</l>
+               <l>Why should not rather, that their age belong</l>
+               <l>Vnto a righteous man, whose length'ned yeares</l>
+               <l>Might assist our necessities, and feares?</l>
+               <l>For sauage Death hath ransaked that brest,</l>
+               <l>Where a large Treasury of wit did rest.</l>
+               <l>What's Gentry then? what's Noblesse? Greatnes what?</l>
+               <l>The Ciuill Purple, or the Clergy Hatt?</l>
+               <l>The Coronet, or Miter; Nay the Crowne</l>
+               <l>Imperiall? What is Potencie, Renowne?</l>
+               <pb facs="tcp:173116:21"/>
+               <l> Ouations, Triumph, or the Conquering Bayes,</l>
+               <l>Wisedome or Wealth? Can these add to thy Dayes</l>
+               <l>A Minute? No, a suddaine chance will fall,</l>
+               <l>Which from thy Mirth will thee to Mourning call.</l>
+               <l>Inquire of Roman <hi>Brutus</hi> surnam'd <hi>Iust,</hi>
+               </l>
+               <l>Or <hi>Salomon</hi> the wise, they both are dust:</l>
+               <l>Learned <hi>Aristotle, Plato</hi> the Diuine,</l>
+               <l>From Earth they came, and Earth, they now are thine.</l>
+               <l>Where are the Worthies? where the Rich, or Faire?</l>
+               <l>Where now the Poore, or the Deformed are?</l>
+               <l>Differing in Life, in Death they are the same,</l>
+               <l>And though vnequall Tombes, haue equall Fame.</l>
+               <l>What attributes may we to <hi>Homer</hi> giue,</l>
+               <l>And other Poets; by whom all These liue:</l>
+               <pb facs="tcp:173116:22"/>
+               <l> Who as their putred flesh is long since rotten;</l>
+               <l>So in their obscure Graues had lyen forgotten</l>
+               <l>Like common men: Had not their Muse high flying,</l>
+               <l>Kept both these Worthyes, &amp; themselues from dying.</l>
+               <l>We see the Conquerors with the Captaines spread,</l>
+               <l>And lodgde in earth, as in the common bed.</l>
+               <l>The All-commanding Generall hath no spanne</l>
+               <l>Of Earth allowde, more then the common man.</l>
+               <l>Folly with Wisedome hath an equall share,</l>
+               <l>The Faire and Foule, alike Intombed are.</l>
+               <l>This is of all mortalitie the end,</l>
+               <l>
+                  <hi>Thirsites</hi> with <hi>Naereus</hi> dares contend:</l>
+               <l>And with <hi>Achilles,</hi> he hath equall place,</l>
+               <l>That liuing durst not looke him in the face.</l>
+               <pb facs="tcp:173116:23"/>
+               <l> The Seruant with his Master, and the Maide</l>
+               <l>With her proud Mistresse, both their heads are layde</l>
+               <l>Vpon an equall Pillow. Subiects keepe</l>
+               <l>Like Courts with Kings: I, and as softly sleepe,</l>
+               <l>Resting their heades vpon a Turfe of Grasse,</l>
+               <l>As they on Marble, or on figured Brasse:</l>
+               <l>Blind <hi>Homer</hi> in the Graue lyes doubly darke,</l>
+               <l>Against him now base <hi>Zoylus</hi> bares not barke.</l>
+               <l>Be this then no small comfort vnto you,</l>
+               <l>The Gentry, and Nobilitie, that knew</l>
+               <l>This Great mans worth, his Wisedome, Valour, Pietie,</l>
+               <l>Zeale to the sacred Trine, the Vnite Deitie:</l>
+               <l>For though his body be confinde to dust.</l>
+               <l>His Soule still liues amonst the best. The Iust</l>
+               <pb facs="tcp:173116:24"/>
+               <l> Before remembred, with the Valiant, Wise,</l>
+               <l>And such as stroue all goodnesse to Comprise.</l>
+               <l>He was possest of much, and in full measure,</l>
+               <l>Did in his Bosome Thousand Vertues Treasure,</l>
+               <l>Which on this Earth he did but put to Loane,</l>
+               <l>Glories for Vertues, he hath ten to one.</l>
+               <l>Being like an Orenge tree, on which was seene</l>
+               <l>Still fruit though gather'd, yet some likewise greene.</l>
+               <l>Nor let such as Lament him, blame the Fates,</l>
+               <l>Be they the Commons, Gentry, or the States,</l>
+               <l>That want his Noble wisedome to assist</l>
+               <l>In Counsels, by which Common-weales exist,</l>
+               <l>And haue their flourishing being, blaming Time,</l>
+               <l>That snatch from them a Father, in his prime;</l>
+               <pb facs="tcp:173116:25"/>
+               <l> Rarely compleate: For let all men knowe,</l>
+               <l>He onely payd a debt which he did owe</l>
+               <l>To God and Nature: Nor can frailtie, sinne</l>
+               <l>Transgresse those limits we are bounded In.</l>
+               <l>He's free from Care, with which this Earth is fraught,</l>
+               <l>And Pale-fac't Death hath Life vnto him brought.</l>
+               <l>This sure he knew full well, or else more feare</l>
+               <l>Would haue possest him, when as Death did teare,</l>
+               <l>His Soule out of his Pious holy brest</l>
+               <l>But he did know it was the way to rest.</l>
+               <l>Ills that with Wisedomes eye we doe foresee,</l>
+               <l>We doe much feare when they approaching be.</l>
+               <l>The Man that surely knowes the Theefe will come</l>
+               <l>Doth fortifie the doores to euery roome.</l>
+               <pb facs="tcp:173116:26"/>
+               <l> And thus with Weapons, and with Wals made strong,</l>
+               <l>Feares not the Thiefe, cause him he cannot wrong.</l>
+               <l>Thus it did fare with him, Hee was prepar'd</l>
+               <l>For comming Death, and therefore was not scar'd:</l>
+               <l>He was no whit afraid, for he did know,</l>
+               <l>Death could not wound, but cure him with his blow.</l>
+               <l>Hee did with faithfull Eyes his Name behold,</l>
+               <l>Which was in the blest Booke of Life inrold;</l>
+               <l>And then his Contemplation higher flying,</l>
+               <l>He fear'd not Death, nor was afraid of Dying:</l>
+               <l>No more then is the Prisoner strongly guarded,</l>
+               <l>That hopes with freedome to be soone rewarded.</l>
+               <l>So was it with his Soule, when Death drew neere,</l>
+               <l>It rather filled was with Ioy, then Feare.</l>
+               <pb facs="tcp:173116:27"/>
+               <l> Not one whit loath her Prison to forsake,</l>
+               <l>Her flight to Heauen, vnto her GOD did take.</l>
+            </lg>
+            <p>This little Moment of our life is the short space whereon dependeth all Eternitie of <hi>Eternall ioyes</hi> or else <hi>Eternall paines.</hi> When we rise in the Mor<g ref="char:EOLhyphen"/>ning what know we the chance that will befall vs before night. And if wee escape the Dayes perill, what will happen before the Morning. Therefore when we go to Bed, we should remember how that it is the very Image of our Graues; the <hi>Triumph, State</hi> and <hi>Traine</hi> of a <hi>Great man</hi> is parted the Day being gone, and the Night come all His rioting and banqueting is finished, and He in a Solarie Retreat, puts off his Gorgeous Apparell, and strips himselfe naked to his shirt: So the pleasure of this Incon<g ref="char:EOLhyphen"/>stant World shall passe, The Mightiest and richest of this World shall shall be stripp'd naked of all his Glories. Vanities and Riches. Hee shall carrie no<g ref="char:EOLhyphen"/>thing with him but a simple Winding-sheet, more then the poorest and abiect fellow.</p>
+            <p>Let vs therefore with the depth of our Hearts <hi>Repent▪</hi> and thinke how the <hi>Axe is laid to the root of the Tree;</hi> When with an vnfained remorse, our Hearts shrils within vs, with angry griefe a<g ref="char:EOLhyphen"/>gainst our selues, then we may be assured that the
+<pb facs="tcp:173116:28"/> Spirit of God workes in vs: it is a signe of true Repentance, when the Sinner (without Hypocrisie) mends his wicked life, making first satisfaction to his Creator, by Fasting and Praying; Restitution to his Neighbor in giuing to the Poore for Christs cause▪ Visiting the Sicke, comforting and helping the afflicted Prisoner, giuing Hospitality &amp; coun<g ref="char:EOLhyphen"/>tenance to the Distressed Stranger. For, in the poorest wretch and most miserable Creature, the Highest and most Fortunate, doth see himselfe and his Humanitie, perfectly as in a true Glasse. Thus, our Mercy sh<gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I giue vs security of our Soules health, our Charitie and Almes will meet vs, and make our End most happy.</p>
+            <lg>
+               <l>For as the Stone doth to the Center hast;</l>
+               <l>Or as the Hare doth ioy when Hounds bepast;</l>
+               <l>Or as the Eagles to the Corps doe flye:</l>
+               <l>So did his Soule to God, when he did dye,</l>
+               <l>Death seem'd not gastly to his Ghostly Spright,</l>
+               <l>Cause while he liu'd, he did in Death delight.</l>
+               <pb facs="tcp:173116:29"/>
+               <l> The stroke and strength of Death he often try'd,</l>
+               <l>For in his Holy Life he daily dy'd.</l>
+               <l>He likewise knew that Death was but a droane,</l>
+               <l>Because he saw the sting of it was gone.</l>
+               <l>His Faith's eye saw One, hanging on a Tree,</l>
+               <l>By whose great power Death seemed dead to be.</l>
+               <l>He knew Christ so, Death by his death did mend.</l>
+               <l>He made it his last Foe, and his first Friend.</l>
+               <l>For as Physitians poysonous Vipers beat,</l>
+               <l>Till they their Venome voyd, then healthfull meat</l>
+               <l>Doe of the flesh compose: so thou oh Lord,</l>
+               <l>Dost to thy sacred Saints, this blisse afford,</l>
+               <l>That grisly Death should not cause sad annoy,</l>
+               <l>Vnto thy Members, but bring heau'nly Ioy.</l>
+               <pb facs="tcp:173116:30"/>
+               <l> For when his Soule, had this Earths lumpe forsooke</l>
+               <l>It, by the swift wingd Posts of Heauen, is tooke.</l>
+               <l>Christs All-delightfull presence to behold,</l>
+               <l>Which euer liues, and yet is neuer old.</l>
+               <l>This made him like a patient Lambe to lye,</l>
+               <l>And breath forth nought but blis, when he did dye.</l>
+               <l>And when from sight of Earth, his Lights shut were,</l>
+               <l>The blessed Land did to's Soul's eyes appeare.</l>
+               <l>When Death closing his lips forbade to speake,</l>
+               <l>In silence He his minde to God did breake.</l>
+               <l>And when Death had extinguisht Natures fire,</l>
+               <l>His Soule was free, and had her blest dehre.</l>
+            </lg>
+            <p>For as Saint <hi>Chrysostome</hi> saith, That the end of the Labourer is sweet, when hee resteth from his La<g ref="char:EOLhyphen"/>bours. So the wearied Traueller, longeth for his
+<pb facs="tcp:173116:31"/> Nighes lodging, and the Storme-beaten Ship see<g ref="char:EOLhyphen"/>keth vp for Shore. The Hireling oft questioneth when his yeare will finish and come out. The Wo<g ref="char:EOLhyphen"/>man great with child will often muse and study vpon her deliuery: Euen so, doth he that perfectly knowes that his death is but a way to liue, And he that considers truely how that this Transitory life is but as a swift Post to Death: Like an Impetu<g ref="char:EOLhyphen"/>ous Riuer which hasteth to the Sea (for so do we, which are Earth, speedily returne to Earth) will sit on the doore Threshold, with the poore Prisoner, who greedily expecting when the Gaolor shall open the doore: euery small motions makes him hope, that death is approaching to deliuer him out of paine and misery, in taking him from this valley of Teares. He lookes for Death without feare, and desires it with affection, and expecting it with great Deuotion, He acteth the last part of his sore af<g ref="char:EOLhyphen"/>flicting Life in this world. His gesture and end thirles the beholders eyes with sad compassion: His words of woe, seasoned with sighes, doth bath the Cheeks of the Hearers with still distilling Teares: with weeping eyes he cals for helpe of Prayer, and like a Hunger-starued Begger he howles and cries to that All-incomprehensible Housholder. Saying:</p>
+            <p>O My God (All-lust, yet All-Mercifull) Open the Gates of thine infinite Mercie to the greatnesse of my
+<pb facs="tcp:173116:32"/> Miseries: Cast vp the Ports of thy vnspeakable Pit<g ref="char:EOLhyphen"/>tie, to my wearied Spirit; Receiue my Soule into thy hands, and annoint her Festred wounds, with the Bloud of thy Immaculate Lambe, <hi>Christ Iesus.</hi> Amen.</p>
+            <lg>
+               <l>Mans life's a Goale, one Death th'end of that Race,</l>
+               <l>But thousand by-paths lead vnto the place;</l>
+               <l>From th'East, the West, the South, the North, all come,</l>
+               <l>Some slowe, some swift pac'd to this Generall doome.</l>
+               <l>These by the Warres fall, these the Seas deuoure:</l>
+               <l>Certaine is Death, vncertaine most the houre.</l>
+               <l>Some dye of Ioy, others with Griefe expire,</l>
+               <l>Beneath cold Artos some, others by Fire,</l>
+               <l>The Torrid Zone casts, forcing them to indure</l>
+               <l>The mad Infection, call'd the Callenture.</l>
+               <l>Some the Spring challengeth, and some the Fall,</l>
+               <l>Winter and Summer others: but Death all.</l>
+               <pb facs="tcp:173116:33"/>
+               <l> Diseases infinite haunt man alone,</l>
+               <l>Cold Aches, Feauers, the Apoplex, the Stone,</l>
+               <l>The Winde, the Gowt, the Crampe, the Dropsie: these,</l>
+               <l>Palsies and Aches on our Bodies ceaze.</l>
+               <l>But Surfets most, which as Physicians say,</l>
+               <l>Haue in the World, of Men beene more decay,</l>
+               <l>Then (if I may take a great Artists word)</l>
+               <l>Haue dyed by Plague, by Famine, or the Sword.</l>
+               <l>This Heauen permits, and how may then poore man</l>
+               <l>Contest against it; none so weake but can</l>
+               <l>Take from his owne and others sundry wayes,</l>
+               <l>But yet not adde one Minute to their dayes,</l>
+               <l>He fell by no such Riots or Excesse,</l>
+               <l>But was Abstinious, one that did professe</l>
+               <pb facs="tcp:173116:34"/>
+               <l> A moderate Diet, with such Temperature,</l>
+               <l>As almost might, Health with long life assure;</l>
+               <l>For in Sobriety he did excell,</l>
+               <l>And alway did demeane himselfe right well.</l>
+               <l>A longer course of life he might haue runne,</l>
+               <l>And to this Land might more good turnes haue done,</l>
+               <l>He might haue bin the ornament of Court,</l>
+               <l>The subiect of farre honored report;</l>
+               <l>But though he be extinct, yet shall his name</l>
+               <l>Be still preserued by long-liued Fame.</l>
+               <l>Though that faire Vertues worthy louers dye,</l>
+               <l>Their memories suruiue eternally.</l>
+               <l>Although Times stealing reuolutions passe,</l>
+               <l>And eating Age consumes the strongest Brasse:</l>
+               <pb facs="tcp:173116:35"/>
+               <l> Yet generous acts, and vertues of the minde</l>
+               <l>An honourable fresh remembrance finde.</l>
+               <l>He was the patterne of a perfect man,</l>
+               <l>His singular endowments euer wan</l>
+               <l>A generall liking and a full applause,</l>
+               <l>For his vpright sincerenesse in each cause:</l>
+               <l>By rule of Scripture he his deeds did square,</l>
+               <l>And to obserue the golden meane tooke care:</l>
+               <l>His Minde was like an Empire, rich and strong,</l>
+               <l>In all defensiue pow'r against the wrong,</l>
+               <l>That ciuill tumult or inuasiue Hath</l>
+               <l>Might raise against the peace of her estate.</l>
+               <l>It was a plentifull and fertile ground,</l>
+               <l>Wherein all needfull riches did abound.</l>
+               <pb facs="tcp:173116:36"/>
+               <l> Labour increas'd what natiuely was bred:</l>
+               <l>No part was barren, or ill husbanded.</l>
+               <l>And with the paines of Industry and wit,</l>
+               <l>In little time, He made such Benefit,</l>
+               <l>Of Conuersation (the Commerce of Mindes;)</l>
+               <l>That what his hable obseruation findes</l>
+               <l>In other knowledges of vse, and good,</l>
+               <l>Which in his owne was yet not vnderstood;</l>
+               <l>Through this rich trade (whereby all good is knowne)</l>
+               <l>Conuerts them home, and plants them in his owne.</l>
+               <l>Which was so sweet and temperate a seat,</l>
+               <l>Without th'extremities of cold or heat;</l>
+               <l>That it could easily it selfe apply</l>
+               <l>To eu'ry vsefull Nature, properly.</l>
+               <pb facs="tcp:173116:37"/>
+               <l> And so did yeeld such prosperous increase</l>
+               <l>Of vertues qualifi'd for warre and peace:</l>
+               <l>That not a Mind wherewith He did conferre,</l>
+               <l>Could vtter speech of that particular,</l>
+               <l>Though in the wayes which other men profess'd;</l>
+               <l>Wherewith his vnderstanding was not bless'd.</l>
+               <l>And whatsoeuer He deliuer'd forth</l>
+               <l>In serious things, was of a Solid worth;</l>
+               <l>Commodiously materiall; Full of vse;</l>
+               <l>And free from ostentation and abuse.</l>
+               <l>And as that Empire of his minde was good;</l>
+               <l>So was her state as strong wherein she stood.</l>
+               <l>Her scituation most entirely lay</l>
+               <l>Within it selfe, admitting not a way,</l>
+               <pb facs="tcp:173116:38"/>
+               <l> Nor any open place, infirme or weake,</l>
+               <l>By which offensiue purposes might breake</l>
+               <l>Into her gouernment; or haue accesse</l>
+               <l>Through the most familiar passages</l>
+               <l>That led vpon him, vnder faire pretence,</l>
+               <l>Without discouering they ment offence,</l>
+               <l>Before it was too late to giue retreate</l>
+               <l>To their proceedings. Nor could any heate</l>
+               <l>Or violence of such inuasion, make</l>
+               <l>His passions mutin'; or his powr's forsake</l>
+               <l>Their proper places. Nothing could disband</l>
+               <l>The strength and order of his mind's command,</l>
+               <l>For neuer mind her nature better knew;</l>
+               <l>Or could obserue a discipline more due</l>
+               <pb facs="tcp:173116:38"/>
+               <l> To such a Nature; or was fortified</l>
+               <l>With workes were more ingeniously applied,</l>
+               <l>To answere all attempts and iniuries,</l>
+               <l>In their owne kinde and seuerall qualities.</l>
+               <l>And in that scope, (offences to auoide)</l>
+               <l>The vse of all those forces was employde.</l>
+               <l>He put not on those popular aspects,</l>
+               <l>Which Greatnesse oft obsequiously affects,</l>
+               <l>To winne the vulgar fancie. For he knew,</l>
+               <l>That humour would distract him from the true</l>
+               <l>And faithfull Course wherein he should attend</l>
+               <l>The publique seruice; to a priuate end.</l>
+               <l>And with too easie and familiar sence</l>
+               <l>Make Fauour apprehended. And dispence</l>
+               <pb facs="tcp:173116:39"/>
+               <l> With such neglect of dutie as proceeds</l>
+               <l>From that presumption which remisnesse breedes.</l>
+               <l>But gaue himselfe vnto the publique cause;</l>
+               <l>And in the due performance of her Lawes,</l>
+               <l>His studies are to publike good dessign'd;</l>
+               <l>Nor giuen, nor forc'd, to any other end.</l>
+               <l>He was not of that soft and seruile mould,</l>
+               <l>That all impressions takes, and none doth hold;</l>
+               <l>But his owne Reason in himselfe did raigne;</l>
+               <l>What she inspir'd, he firmely did retaine.</l>
+               <l>He could not flatter Greatnesse; <hi>Zanie</hi> humours;</l>
+               <l>Or be obsequious to aswage the Tumours</l>
+               <l>That in corrupted mindes did rise and swell</l>
+               <l>Against him: But did residently dwell</l>
+               <pb facs="tcp:173116:40"/>
+               <l> Vpon the purpose of a true intent;</l>
+               <l>In whose successes he was confident.</l>
+               <l>And could worke wayes to prosperous euents;</l>
+               <l>Aswell in vnexpected accidents,</l>
+               <l>As things proiected and premeditate.</l>
+               <l>In Counsell, he was of so temperate</l>
+               <l>And free a Mind, that Reason in his Soule,</l>
+               <l>Like an Imperiall presence, did controule</l>
+               <l>And scilence all those passions that haue force</l>
+               <l>To interrupt the passage of discourse.</l>
+               <l>While to the cleare and vneclipsed eye,</l>
+               <l>Of his strong intellectuall faculty,</l>
+               <l>His well informed knowledge did present</l>
+               <l>The state and nature of the Argument:</l>
+               <pb facs="tcp:173116:41"/>
+               <l> The parts, th'entire, and eu'ry circumstance</l>
+               <l>That was contingent, or had reference</l>
+               <l>Materiall to the thing consulted on.</l>
+               <l>Which when his free discourse had pass'd vpon;</l>
+               <l>His iudgement in conclusion did lay ope</l>
+               <l>The waies, the meanes, he reasons, and the scope,</l>
+               <l>What, how, whereby, and when, and where to doe;</l>
+               <l>And eu'ry due respect annex'd vntoo,</l>
+               <l>With such demonstratiue and pregnant force;</l>
+               <l>That, practise without speculatiue discourse;</l>
+               <l>Nor speculation without practise tried;</l>
+               <l>Nor both, without great prudence amplified,</l>
+               <l>To know their vses and apply them well;</l>
+               <l>To his aduise, could make a Paralell.</l>
+               <pb facs="tcp:173116:42"/>
+               <l> There is no man, though he before were glad,</l>
+               <l>But when he thinks that we this <hi>Hero</hi> had,</l>
+               <l>And now haue lost him, Though he be diuine</l>
+               <l>Made by his death, yet will his eyes drop brine;</l>
+               <l>All them that knew him well doe weepe their turne,</l>
+               <l>All in their hearts, though not in habits mourne,</l>
+               <l>But for themselues, not him, let them lament,</l>
+               <l>Whose happinesse is growne their punishment.</l>
+               <l>Me thinks I see all Arts doe hang their head,</l>
+               <l>Euen since the mournfull minute he was dead,</l>
+               <l>For he himselfe was Learnings Lampe, and lent</l>
+               <l>Fauour to such as were to studie bent,</l>
+               <l>He to Religious Pastors was a shield,</l>
+               <l>And vnto them encouragement did yeeld,</l>
+               <pb facs="tcp:173116:43"/>
+               <l> He would accept the offering of their Quill,</l>
+               <l>Not with a loathnesse, as against his will,</l>
+               <l>But with much affability, and then</l>
+               <l>He was exceeding liberall to those men,</l>
+               <l>In whom he found true Schollership and wit.</l>
+               <l>Which fairely testified he valu'd it.</l>
+               <l>Milde, affable, and easie of accesse</l>
+               <l>He was, but with a due reseruednesse;</l>
+               <l>So that the passage to his fauour lay,</l>
+               <l>Not common, yet it gaue a gentle way,</l>
+               <l>To such as fitly might, or ought to passe:</l>
+               <l>And such his custome and his manner was.</l>
+               <l>Commodities he tooke not vpon day,</l>
+               <l>Nor made them lose their gaines by long delay:</l>
+               <pb facs="tcp:173116:44"/>
+               <l> He entertaind them not with promises;</l>
+               <l>Nor lou'd he poore mens sad attendances:</l>
+               <l>He was a man that lou'd no great commerse</l>
+               <l>With businesse, fearing that it might disperse</l>
+               <l>Him, into other mens vncertainties,</l>
+               <l>Whose giddy headed buzings, he still flyes,</l>
+               <l>And with a quiet calme sincerity,</l>
+               <l>H'effects his vndertakings really;</l>
+               <l>His tongue and heart, did ne're turne backe, but went</l>
+               <l>One way, and kept one course, with what he ment.</l>
+               <l>The friendships that he vow'd, most constant were,</l>
+               <l>He vsd no maske at all, but alwayes ware</l>
+               <l>His honest inclination open fac'd,</l>
+               <l>With iudgement were his deepe affections plac'd.</l>
+               <pb facs="tcp:173116:45"/>
+               <l> He was descended from illustrious blood,</l>
+               <l>And by his nature he was truly good;</l>
+               <l>His Enemies (if Enemies he had)</l>
+               <l>Cannot reproue him of ought that was bad.</l>
+               <l>Ther's neuer any had a heart lesse sweruing,</l>
+               <l>Nor was at more command, most truly seruing</l>
+               <l>Vnder the regiment of his owne care</l>
+               <l>And colours, of that honestie he bare</l>
+               <l>Then that of his, who neuer more was knowne</l>
+               <l>To vse immodest act that might haue showne</l>
+               <l>The touch, but of a word that was obseane,</l>
+               <l>Or cogitation any way vncleane.</l>
+               <l>All which, if that they can to glory raise,</l>
+               <l>And being knit to one, can merit praise</l>
+               <pb facs="tcp:173116:46"/>
+               <l> In after-times, then iustly may I say,</l>
+               <l>No name is like to liue a longer day.</l>
+               <l>The many houres vntill the day of doome</l>
+               <l>Will not his datelesse memory consume.</l>
+               <l>He leaues a deathlesse memory and Fame,</l>
+               <l>To be an Honor to the <hi>Spencers</hi> Name</l>
+               <l>And Family, from whence he had descent,</l>
+               <l>Which by his Worth he made more eminent;</l>
+               <l>His corps return'd to earth from whence it came</l>
+               <l>But from his acts doth rise his worthy fame.</l>
+               <l>Immortall man, whose name shall neuer dye;</l>
+               <l>But shall suruiue to all eternitie</l>
+               <l>How can the memory of such a spirit,</l>
+               <l>Whose deeds of very Enuy got his merit,</l>
+               <l>Euer forgotten be? whom to iust praise</l>
+               <l>The worthy actions of his life did raise.</l>
+               <pb facs="tcp:173116:47"/>
+               <l> All you the Worthies of our present dayes,</l>
+               <l>Whose iudgement and experience knew his wayes</l>
+               <l>Conuersed with his actions and intents,</l>
+               <l>In priuate and in publike managements;</l>
+               <l>To your true vnderstandings it is knowne,</l>
+               <l>That he might claime all honors for his owne.</l>
+               <l>But what's on earth Perdurable? If Fame,</l>
+               <l>Honour, Reuenewe, if Charitie, good Name,</l>
+               <l>Grace, Fauour, Merit, (for in him was lost</l>
+               <l>Nothing of which Mortalitie can boast)</l>
+               <l>If any one of these, or All, could haue</l>
+               <l>Reprieu'd this Worthy, from a time-lesse Graue:</l>
+               <l>He that's falne thus lowe, still high had stood,</l>
+               <l>Since all perfections did inrich his blood.</l>
+               <pb facs="tcp:173116:48"/>
+               <l> Vnto what Key shall I my dull Muse raise,</l>
+               <l>To Commend Him, that farre exceeds all Praise.</l>
+               <l>What I but onely striue at, had I done,</l>
+               <l>I should but light a Taper 'fore the Sunne,</l>
+               <l>Burning a Lampe at midday, and still owe</l>
+               <l>The Dead, but speaking that which all men know.</l>
+               <l>For sith this Worthy, did deserue to be</l>
+               <l>Plac'd in the highest skye, from thence to see</l>
+               <l>The deeds of wretched mortals, being blest</l>
+               <l>And free from miseries which men molest:</l>
+               <l>I, then to Immortalitie, to rest,</l>
+               <l>To that High place prepared for the Blest,</l>
+               <l>Before the First of Dayes, His Glorious Soule</l>
+               <l>I will bequeath (there amongst Saints to Inrowle)</l>
+               <pb facs="tcp:173116:49"/>
+               <l> His Memory in this Regenerate Birth,</l>
+               <l>And what from Earth first came againe to Earth.</l>
+               <l>Now muttering enuy, what canst thou produce?</l>
+               <l>(Cast thy pure stone exempt from all abuse)</l>
+               <l>How canst thou cloud the luster of these parts?</l>
+               <l>Say, what defects could weigh downe such deserts?</l>
+               <l>Summon detraction to obiect the worst,</l>
+               <l>It cannot finde a blemish to be'nforc'd</l>
+               <l>(Though spitefully it vtter all it can)</l>
+               <l>Against him other then he was a man,</l>
+               <l>And build of flesh and bloud, and did liue here</l>
+               <l>Where all perfections neuer did appeare</l>
+               <l>To meet with any one so really,</l>
+               <l>Within the region of infirmitie:</l>
+               <l>For though his frailtie euer did bewray</l>
+               <l>Vnto the world that he was set in <gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lay;</l>
+               <l>Yet his true Vertues, and his worthinesse</l>
+               <l>Being seene so farre aboue his weaknesses,</l>
+               <l>Must euer shine, whilst th'other vnder-ground,</l>
+               <l>With his fraile part shall neuer more be found.</l>
+               <l>His Monument, while History doth last,</l>
+               <l>Shall neuer be forgotten, or defac'd.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:173116:49"/>
+         </div>
+      </body>
+   </text>
+</TEI>
